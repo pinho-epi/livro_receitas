@@ -1,9 +1,9 @@
-#Strogonoff de Frango
+#Strogonoff de Frango/Grão de Bico
 **negrito**
 _italico_
 
 ###Ingradientes
- - 1 quilo de peito de frango sem pele
+ - 1 quilo de peito de frango sem pele/ 500g de grão de bico
  - 1 tablete de caldo de galinha
  - 3 colheres de sopa de oleo
  - 2 latas de creme de leite sem soro
